@@ -8,6 +8,7 @@ public class FrontController {
 
     @GetMapping("/getHome")
     public String homePage(){
+        System.out.println("Hello Pradip This is third commit.");
         return "home";
     }
 
