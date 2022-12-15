@@ -1,7 +1,5 @@
 package com.example.jenkinsdemo.Controller;
 
-import org.springframework.stereotype.Controller;
-import javax.annotation.PostConstruct;
 import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
